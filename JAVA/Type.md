@@ -116,7 +116,7 @@ System.out.println("var10:"+var10);
 ▶️ var9:15
 ▶️ var10:2100000000
 ```
-`int var1=10;`default 10진수
-`int var2=017;`0 8진수
-`int var3=0b101;`0b bit 2진수
-`int var4=0xa;`0x 16진수
+- `int var1=10;`default 10진수
+- `int var2=017;`0 8진수
+- `int var3=0b101;`0b bit 2진수
+- `int var4=0xa;`0x 16진수
