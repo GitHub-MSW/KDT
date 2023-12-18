@@ -5,5 +5,5 @@
 ## 🎼JAVA
 
 - [Main Method](https://github.com/GitHub-MSW/KDT/blob/main/JAVA/Main%20Method.md)<br>
-- [Type]<br>
+- [Type](https://github.com/GitHub-MSW/KDT/blob/main/JAVA/Type.md)<br>
 
