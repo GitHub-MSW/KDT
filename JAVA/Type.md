@@ -58,6 +58,6 @@ System.out.println(c+c2);
 ▶️ c:A
 ▶️ 131
 ```
-- char 타입은 작은따옴표'' char는 한글자만 가능
-- 문자열 연결
-- 연산 우선순위가 문자열보다 숫자가 더우선순위에 있기때문 아스키코드
+- `char c='A';`char 타입은 작은따옴표'' char는 한글자만 가능
+- `System.out.println("c:"+c);`문자열 연결
+- `System.out.println(c+c2);`연산 우선순위가 문자열보다 숫자가 더우선순위에 있기때문 아스키코드
