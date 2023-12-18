@@ -133,7 +133,7 @@ System.out.println("var2 : "+var2);
 ▶️ var1 : 10
 ▶️ var2 : 10
 ```
--`long var2=10L;`L생략 가능
+- `long var2=10L;`L생략 가능
 
 ***
 ***Float Double***
@@ -154,11 +154,11 @@ System.out.println("var5:"+var5);
 ▶️ var4:0.12345678901234568
 ▶️ var5:0.12345679
 ```
--실수형 타입 소수점 타입
+- 실수형 타입 소수점 타입
 
--`double var1=3.14;`double도 d를 붙일수있음, d 생략가능
+- `double var1=3.14;`double도 d를 붙일수있음, d 생략가능
 
--`float var2=3.14f;`double과 구분위해 float는 f를 붙여야함 대문자 소문자 상관없음
+- `float var2=3.14f;`double과 구분위해 float는 f를 붙여야함 대문자 소문자 상관없음
 
 ```java
 int var6=3000000;
@@ -176,5 +176,5 @@ System.out.println("var9:"+var9);
 ▶️ var8:3000000.0
 ▶️ var9:0.002
 ```
--승수
--`double var7=3e6;`exponent의 약자 상수. 부동소수점,고정소수점int로만으로e는 사용불가
+- 승수
+- `double var7=3e6;`exponent의 약자 상수. 부동소수점,고정소수점int로만으로e는 사용불가
