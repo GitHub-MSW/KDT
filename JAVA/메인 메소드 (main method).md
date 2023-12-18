@@ -17,3 +17,11 @@ System.out.println("Hello");
 ▶️ Hello
 ```
 
+<br>
+# 주석
+
+```java
+한줄 주석 : //
+여러줄 주석 : /*  */
+```
+
