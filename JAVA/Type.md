@@ -155,9 +155,7 @@ System.out.println("var5:"+var5);
 ▶️ var5:0.12345679
 ```
 - 실수형 타입 소수점 타입
-
 - `double var1=3.14;`double도 d를 붙일수있음, d 생략가능
-
 - `float var2=3.14f;`double과 구분위해 float는 f를 붙여야함 대문자 소문자 상관없음
 
 ```java
