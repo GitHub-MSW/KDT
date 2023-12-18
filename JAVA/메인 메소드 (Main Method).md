@@ -1,7 +1,5 @@
 # 메인 메소드 (Main Method)
 
-<br>
-
 메인 메소드
 
 ```java
@@ -17,7 +15,7 @@ System.out.println("Hello");
 ```
 - 메인메소드는 프로젝트에서 단 하나, 시작점, 클래스 안에 메인메소드
 
-<br>
+***
 
 주석
 
@@ -25,7 +23,3 @@ System.out.println("Hello");
 한줄 주석 : //
 여러줄 주석 : /*  */
 ```
-
-<br>
-
-aaa
