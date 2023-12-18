@@ -1,4 +1,4 @@
-# 메인 메소드 (Main Method)
+# Main Method
 
 ***
 
