@@ -2,7 +2,7 @@
 
 ***
 
-**메인 메소드**
+***메인 메소드***
 
 ```java
 public static void main(String[] args) {
