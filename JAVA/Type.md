@@ -162,7 +162,7 @@ System.out.println("var5:"+var5);
 
 ```java
 int var6=3000000;
-double var7=3e6;//exponent의 약자 상수. 부동소수점,고정소수점int로만으로e는 사용불가
+double var7=3e6;
 float var8=3e6f;
 double var9=2e-3;
 	
@@ -177,4 +177,4 @@ System.out.println("var9:"+var9);
 ▶️ var9:0.002
 ```
 - 승수
-- `double var7=3e6;`exponent의 약자 상수. 부동소수점,고정소수점int로만으로e는 사용불가
+- `double var7=3e6;`exponent의 약자 상수. 부동소수점, 고정소수점 int로만으로 e는 사용불가
