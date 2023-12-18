@@ -24,7 +24,7 @@ double 8byte
 boolean 1byte
 ```
 ***
-***byte***
+***Byte***
 ```java
 byte var1=(byte) -129;
 byte var2=-30;
