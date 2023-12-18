@@ -5,7 +5,7 @@
 <br>
 # 메인 메소드
 
-''' java
+```java
 public static void main(String[] args) {
 }
-'''java
+```java
