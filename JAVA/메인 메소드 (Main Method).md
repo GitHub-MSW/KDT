@@ -1,7 +1,5 @@
 # 메인 메소드 (Main Method)
 
-<br>
-
 메인 메소드
 
 ```java
