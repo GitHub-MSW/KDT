@@ -120,3 +120,17 @@ System.out.println("var10:"+var10);
 - `int var2=017;`0 8진수
 - `int var3=0b101;`0b bit 2진수
 - `int var4=0xa;`0x 16진수
+
+***
+***Long***
+```java
+long var1=10;
+long var2=10L;
+
+System.out.println("var1 : "+var1);
+System.out.println("var2 : "+var2);
+
+▶️ var1 : 10
+▶️ var2 : 10
+```
+-`long var2=10L;`L생략 가능
