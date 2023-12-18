@@ -61,3 +61,20 @@ System.out.println(c+c2);
 - `char c='A';`char 타입은 작은따옴표'' char는 한글자만 가능
 - `System.out.println("c:"+c);`문자열 연결
 - `System.out.println(c+c2);`연산 우선순위가 문자열보다 숫자가 더우선순위에 있기때문 아스키코드
+
+```java
+char c1='A'+1;
+		
+System.out.println("c1:"+c1);
+System.out.println("c1:"+(int)c1);
+		
+int c2=70;
+System.out.println("c2:"+c2);
+System.out.println("문자로 표현 : "+(char)c2);
+
+▶️ c1:B
+▶️ c1:66
+▶️ c2:70
+▶️ 문자로 표현 : F
+```
+- 아스키 코드
