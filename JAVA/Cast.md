@@ -4,9 +4,9 @@
 
 ```java
 int intValue = 65;
-char charValue = (char) intValue;// 강제형변환
+char charValue = (char) intValue;
 
-intValue = charValue;// 자동형변환
+intValue = charValue;
 ```
 - Casting 형변환
 - 강제 형변환 : 큰내용을 작은 그릇에 담을때
