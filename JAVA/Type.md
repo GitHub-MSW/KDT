@@ -132,14 +132,16 @@ var10:2100000000
 ***
 ***Long***
 ```java
-long var1=10;
-long var2=10L;
+long var1 = 10;
+long var2 = 10L;
 
-System.out.println("var1 : "+var1);
-System.out.println("var2 : "+var2);
+System.out.println("var1 : " + var1);
+System.out.println("var2 : " + var2);
 
-▶️ var1 : 10
-▶️ var2 : 10
+▶️
+var1 : 10
+var2 : 10
+
 ```
 - `long var2=10L;`L생략 가능
 
