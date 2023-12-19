@@ -1,4 +1,4 @@
-# BitLogicalExp
+# BitLogical
 
 ***
 
