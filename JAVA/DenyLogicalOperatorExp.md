@@ -7,7 +7,7 @@ boolean play1 = false;
 boolean play2 = false;
 System.out.println(play1);
 System.out.println(!play2);
-play2 = !play2;// 역함수 not
+play2 = !play2;
 System.out.println(play2);
 System.out.println(play2);
 
