@@ -26,22 +26,24 @@ boolean 1byte
 ***
 ***Byte***
 ```java
-byte var1=(byte) -129;
-byte var2=-30;
-byte var3=0;
-byte var4=30;
-byte var5=(byte) 128;
+byte var1 = (byte) -129;
+byte var2 = -30;
+byte var3 = 0;
+byte var4 = 30;
+byte var5 = (byte) 128;
 System.out.println(var1);
 System.out.println(var2);
 System.out.println(var3);
 System.out.println(var4);
 System.out.println(var5);
 
-▶️ 127
-▶️ -30
-▶️ 0
-▶️ 30
-▶️ -128
+▶️
+127
+-30
+0
+30
+-128
+
 ```
 - 변수 'var', '=' 대입연산자 (이퀄의 의미 아님, 우측항을 좌측항으로 대입)
 - 문장의 종료 ;
