@@ -52,13 +52,15 @@ System.out.println(var5);
 ***
 ***Char***
 ```java
-char c='A';
-char c2='B';
-System.out.println("c:"+c);
-System.out.println(c+c2);
+char c = 'A';
+char c2 = 'B';
+System.out.println("c:" + c);
+System.out.println(c + c2);
 
-▶️ c:A
-▶️ 131
+▶️
+c:A
+131
+
 ```
 - `char c='A';`char 타입은 작은따옴표'' char는 한글자만 가능
 - `System.out.println("c:"+c);`문자열 연결
