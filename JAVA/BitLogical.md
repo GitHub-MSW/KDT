@@ -4,10 +4,10 @@
 
 ```java
 
-System.out.println(45 & 25);// 비트연산 and
-System.out.println(45 | 25);// 비트연산 or
+System.out.println(45 & 25);
+System.out.println(45 | 25);
 
-System.out.println(45 ^ 25);// 비트연산 xor 다를때 1 같을때 0
+System.out.println(45 ^ 25);
 System.out.println(Integer.toBinaryString(45));
 System.out.println(" " + Integer.toBinaryString(25));
 
