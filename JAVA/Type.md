@@ -47,7 +47,7 @@ System.out.println(var5);
 ```
 - 변수 'var', '=' 대입연산자 (이퀄의 의미 아님, 우측항을 좌측항으로 대입)
 - 문장의 종료 ;
-- `byte var5=(byte) 128;`형변환 원형식으로 한바퀴 돈다고 이해 (숫자일 경우)
+- `byte var5 = (byte) 128;`형변환 원형식으로 한바퀴 돈다고 이해 (숫자일 경우)
 
 ***
 ***Char***
@@ -62,9 +62,9 @@ c:A
 131
 
 ```
-- `char c='A';`char 타입은 작은따옴표'' char는 한글자만 가능
-- `System.out.println("c:"+c);`문자열 연결
-- `System.out.println(c+c2);`연산 우선순위가 문자열보다 숫자가 더우선순위에 있기때문 아스키코드
+- `char c = 'A';`char 타입은 작은따옴표'' char는 한글자만 가능
+- `System.out.println("c:" + c);`문자열 연결
+- `System.out.println(c + c2);`연산 우선순위가 문자열보다 숫자가 더우선순위에 있기때문 아스키코드
 
 ```java
 char c1 = 'A' + 1;
@@ -124,10 +124,10 @@ var9:15
 var10:2100000000
 
 ```
-- `int var1=10;`default 10진수
-- `int var2=017;`0 8진수
-- `int var3=0b101;`0b bit 2진수
-- `int var4=0xa;`0x 16진수
+- `int var1 = 10;`default 10진수
+- `int var2 = 017;`0 8진수
+- `int var3 = 0b101;`0b bit 2진수
+- `int var4 = 0xa;`0x 16진수
 
 ***
 ***Long***
@@ -143,7 +143,7 @@ var1 : 10
 var2 : 10
 
 ```
-- `long var2=10L;`L생략 가능
+- `long var2 = 10L;`L생략 가능
 
 ***
 ***Float Double***
@@ -167,8 +167,8 @@ var5:0.12345679
 
 ```
 - 실수형 타입 소수점 타입
-- `double var1=3.14;`double도 d를 붙일수있음, d 생략가능
-- `float var2=3.14f;`double과 구분위해 float는 f를 붙여야함 대문자 소문자 상관없음
+- `double var1 = 3.14;`double도 d를 붙일수있음, d 생략가능
+- `float var2 = 3.14f;`double과 구분위해 float는 f를 붙여야함 대문자 소문자 상관없음
 
 ```java
 int var6 = 3000000;
@@ -189,4 +189,4 @@ var9:0.002
 
 ```
 - 승수
-- `double var7=3e6;`exponent의 약자 상수. 부동소수점, 고정소수점 int로만으로 e는 사용불가
+- `double var7 = 3e6;`exponent의 약자 상수. 부동소수점, 고정소수점 int로만으로 e는 사용불가
